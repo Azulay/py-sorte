@@ -24,15 +24,25 @@ Passo-a-passo básico para se obter os dados para processamento
 2. Trabalhar dados para:
 
 	2.1 Cada Dezena deve ter info sobre qual quadrante ela pertence;
+	
 	2.2 Cada Dezena deve ter info sobre ser par ou impar;
+	
 	2.3 Cada Dezena deve ter info sobre ultima vez que saiu;
+	
 	2.4 Cada Dezena deve ter info sobre quantas vezes saiu;
+	
 	etc;
 	
 3. Gerar views de:
+
 	3.1 Números que mais sairam;
+	
 	3.2 Números que menos sairam;
+	
 	3.3 Jogos que mais sairam (caso ja tenha havido jogos repetidos);
+	
 	3.4 Sugestão de jogo no formato Q1-2,Q2-1,Q3-1,Q4-2 com as dezenas mais sorteadas destes quadrantes;
+	
 	3.5 Sugestão de jogo no formato Q1-2,Q2-1,Q3-1,Q4-2 com as dezenas menos sorteadas destes quadrantes;
+	
 	etc;
