@@ -22,7 +22,8 @@ Passo-a-passo básico para se obter os dados para processamento
 	https://pythonhelp.wordpress.com/2013/03/18/webscraping-em-python/
 
 2. Trabalhar dados para:
-	2.1 Cada Dezena deve ter info sobre qual quadrante ela pertence
+
+	[2.1] Cada Dezena deve ter info sobre qual quadrante ela pertence
 	2.2 Cada Dezena deve ter info sobre ser par ou impar
 	2.3 Cada Dezena deve ter info sobre ultima vez que saiu
 	2.4 Cada Dezena deve ter info sobre quantas vezes saiu
